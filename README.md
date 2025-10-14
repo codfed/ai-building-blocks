@@ -9,3 +9,9 @@ Python environment setup, installing dependencies, API keys, .env files
 ## 1-llm-calls
 
 There are so many cool frameworks, low/no code tools paradigms, etc, out there. Before you jump to those it's helpful to understand what you can do with the basic api calls
+
+## 2-practical-applications
+
+### Wikipedia trending reasons
+
+Determine why articles are trending on Wikipedia using OpenAI and Google News results
